@@ -49,4 +49,4 @@ logs/
 # custom; works
 
 /venv/Lib/site-packages/ 
-
+3rdparty/llama.cpp
